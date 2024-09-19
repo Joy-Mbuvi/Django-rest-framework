@@ -1,0 +1,11 @@
+# Ignore the environment file
+.env
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore local environment settings
+.env.local
+*.env
+
